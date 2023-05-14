@@ -4,3 +4,5 @@ github.com/Snow-00/learn-go-module v1.0.1 h1:h46TW0QqbQGM6sMezJQRJV7mndL2gYkMc68
 github.com/Snow-00/learn-go-module v1.0.1/go.mod h1:BArH9/B4KioxgAQkCP2mVzNNcc+VFx1pb8kzKNyq5ug=
 github.com/Snow-00/learn-go-module v1.0.2 h1:xZnKLR8a6noxSS8zYzxQA1CNyNgW1Bak4f3IwPdNsj8=
 github.com/Snow-00/learn-go-module v1.0.2/go.mod h1:BArH9/B4KioxgAQkCP2mVzNNcc+VFx1pb8kzKNyq5ug=
+github.com/Snow-00/learn-go-module/v2 v2.0.0 h1:rv8omtMGK6bv/3pHA1jAWIcY99JrH6YKo5DgQydSbPA=
+github.com/Snow-00/learn-go-module/v2 v2.0.0/go.mod h1:FiTSb4HN8QNKnBpwl5BuvBPGRouJZTGeTZeBlq6ajB8=
